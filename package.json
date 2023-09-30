@@ -1,0 +1,26 @@
+{
+  "name": "octodoc",
+  "version": "1.2.2",
+  "description": "Gather all the documentation for your dependencies in one place!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node index.js",
+    "octodoc": "docsify serve .octodoc",
+    "updatedoc": "node ./node_modules/octodoc/indexUpdate.js"
+  },
+  "keywords": [
+    "octodocs",
+    "documentation",
+    "octodoc",
+    "docsify"
+  ],
+  "author": "Guillaume Reygner",
+  "license": "MIT",
+  "dependencies": {
+    "docsify-cli": "^4.4.4",
+    "fs-extra": "^11.1.1",
+    "octodoc": "^1.2.0"
+  }
+}
