@@ -1,6 +1,7 @@
 # Octodoc 🐙
  
 [![GitHub Version](https://img.shields.io/github/v/release/guillaume-rygn/octodoc.svg?style=for-the-badge)](https://github.com/guillaume-rygn/octodoc/releases)
+![Static Badge](https://img.shields.io/badge/magic%20documentation%20🪄-8A2BE2)
 
 ![Demo](./assets/demo.gif)
 
